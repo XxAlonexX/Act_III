@@ -4,6 +4,7 @@
 
 In this Unreal Engine project, I crafted a fully immersive and visually stunning environment without using a single texture, achieving a near-photorealistic look. By focusing solely on geometry and lighting, I pushed the boundaries of creativity, bringing a sense of lifelike depth and realism. This highly optimized environment was achieved with an innovative approach that leverages Unreal Engine's Nanite technology for detailed, complex assets.
 
+<picture> <img align="right" src="https://github.com/XxAlonexX/Membership-Page/blob/main/images/Screenshot(202).jpeg?raw=true"></picture>
 ---
 
 ### Project Objectives
